@@ -1,0 +1,12 @@
+{
+  "name": "eloquent_pl",
+  "version": "1.0.0",
+  "description": "This repo is my try to other programming languages. I usually work with JavaScript (and TypeScript, NodeJS also) as a web developer but I think learning new stuff would help me understand deeply the core concepts, including object-oriented design, functional programming, gabarge collection, pointers, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
